@@ -9,8 +9,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+	"build:clean": "react-scripts build",
+	"build:prod": "react-scripts build",
+    "test:coverage": "echo Mock stage test:coverage",
+    "eject": "react-scripts eject",
+	"install-types": "echo Mock stage install-types"
   }
 }
