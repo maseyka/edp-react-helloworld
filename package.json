@@ -1,7 +1,6 @@
 {
   "name": "hello-world",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "flow-bin": "^0.74.0",
     "react": "^16.3.2",
